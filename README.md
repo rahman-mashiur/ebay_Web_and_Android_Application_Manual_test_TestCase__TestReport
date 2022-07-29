@@ -1,1 +1,1 @@
-# ebay_Web_and_Android_Application_Manual_test_TestCase__TestReport
+# This a Manual Testing project contains Test Cases and Test Reports of Ebay web and Mobile application.
